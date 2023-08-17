@@ -1,4 +1,4 @@
-<h1 align="center">Chào đằng đó 👋, Chúng tôi là TheDarkNationMC</h1>
+<h1 align="center">Chào đằng đó 👋, Chúng mình là TheDarkNationMC</h1>
 <h3 align="center">Một nhóm học sinh bắt đầu học lập trình 😋</h3>
 
 - 🔭 Chúng mình hiện tại đang thực hiện dự án **TDNMC-Landing-Page và TDNMC-Store.**
