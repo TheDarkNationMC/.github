@@ -1,4 +1,7 @@
-## Chào đằng đó 👋
+# Chào đằng đó 👋
+
+### TheDarkNationMC(TDNMC) là gì? TDNMC là 1 nhóm gồm 2 người tập tành code 👀
+
 
 <!--
 
