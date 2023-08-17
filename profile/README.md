@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **TDNMC là 1 server Minecraft 😶**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Liên lạc với tụi mình:</h3>
 <p align="left">
 <a href="https://discord.gg/QPWMP7X9yj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QPWMP7X9yj" height="30" width="40" /></a>
 </p>
